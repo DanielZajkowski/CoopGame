@@ -10,7 +10,7 @@ USHealthComponent::USHealthComponent()
 {
 	DefaultHealth = 100.f;
 
-	SetIsReplicated(true);
+	//SetIsReplicated(true);
 
 	bIsDead = false;
 
